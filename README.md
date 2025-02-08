@@ -70,7 +70,7 @@ This project is a basic **web-based authentication system** that allows users to
 ### **Contributing**
 Feel free to **open issues, suggest improvements, or contribute new features** by submitting a pull request.
 
-📩 **For questions or collaboration, reach out at:** your.email@example.com  
+📩 **For questions or collaboration, reach out at:** ritikajoshi141@gmail.com  
 
 ---
 
