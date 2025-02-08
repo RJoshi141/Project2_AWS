@@ -1,4 +1,4 @@
-## Flask-Based User Authentication System**
+## Flask-Based User Authentication System
 
 ### **Project Overview**
 This project is a basic **web-based authentication system** that allows users to **register, log in, and view their personal details**. The system uses **Flask for backend processing, SQLite for storage**, and can be **deployed on AWS** for cloud accessibility.
