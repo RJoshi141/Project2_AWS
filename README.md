@@ -23,7 +23,7 @@ This project is a basic **web-based authentication system** that allows users to
 ### **Installation & Setup**
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/auth-system.git
+   git clone https://github.com/RJoshi141/auth-system.git
    cd auth-system
    ```
 
